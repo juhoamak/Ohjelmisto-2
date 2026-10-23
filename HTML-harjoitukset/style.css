@@ -1,0 +1,20 @@
+
+body {background-color: antiquewhite;}
+/* pääotsikko */
+h1 {color: saddlebrown; text-align: center;}
+/* linkit */
+a {color: #1a5276; text-decoration: none; font-weight: bold;}
+/* hoveri */
+a:hover {color: #c0392b; text-decoration: underline;}
+/* kuvat */
+img {
+    border: 3px solid #1a5276;
+    border-radius: 10px;
+}
+/* taulukko */
+table {border-collapse: collapse; width: 100%;}
+th, td {border: 1px solid black; padding: 8px; text-align: left;}
+tr:nth-child(even) {background-color: lightgray;}
+ol {list-style-type: none; padding-left: 0;}
+
+
