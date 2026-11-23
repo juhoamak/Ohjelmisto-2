@@ -2,7 +2,16 @@
 
 ### JS moduulit 1 & 2
 
+[Linkki JS-moduulin 1 & 2 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~juhoamak/Module%201%20&%202/)
 
+Tehdyt tehtävät:
+
+- Tehtävä 1: 1 p
+- Tehtävä 3: 3 p
+- Tehtävä 4: 3 p
+- Tehtävä 5: 3p
+
+**Yhteensä 10p**
 
 ### JS moduuli 3
 
